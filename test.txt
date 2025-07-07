@@ -4,3 +4,4 @@ branch1
 main repository
 repomaster fix
 tag
+tag2
